@@ -9,7 +9,7 @@ A collective list of user interface inspirations.
 ### Mobile
 Name | Description | Link |
 |---|---|---|
-| Mobile Design Inspiration | tumblr blog. | [Go!](https://inspirationmobile.tumblr.com/tagged/iPhone) |
+| Design Inspiration | tumblr blog. | [Go!](https://inspirationmobile.tumblr.com/tagged/iPhone) |
 | Dribble | Showcase for designers. | [Go!](https://dribbble.com/) |
 | Behance | Showcase for designers. | [Go!](https://www.behance.net/) |
 | Mobile Patterns | A library of iOS and Android screenshots for designers and developers to reference. | [Go!](http://www.mobile-patterns.com/) |
